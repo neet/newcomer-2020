@@ -1,0 +1,1 @@
+self.__BUILD_MANIFEST = (function(a,b){return {"/class":[b],"/club-circle":[a,b],"/club-circle/[id]":[a],"/club-circle/event/[id]":[a]}}("static\u002Fchunks\u002Fee8c781f2b1e51322abe4e9a2615820bc4371198.222c6651a3ece8395a5a.js","static\u002Fchunks\u002F7ef4893a2f46f711d74c5fd71b809e6a0d128cab.73c1be17dd222ffec5fa.js"));self.__BUILD_MANIFEST_CB && self.__BUILD_MANIFEST_CB()
